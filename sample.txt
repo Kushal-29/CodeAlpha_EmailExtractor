@@ -1,0 +1,6 @@
+Hello team,
+
+Please contact us at support@example.com or admin@testmail.org.
+You can also reach John at john.doe25@gmail.com.
+
+Thanks!
