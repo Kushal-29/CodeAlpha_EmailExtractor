@@ -12,9 +12,9 @@ In many real-world applications — like market research, automated data gatheri
 ✔ Extracts all email addresses found
 ✔ Stores them in structured output
 ✔ Works both from URLs and text input
-
-🚀 Key Features
-
+   
+🚀 Key Features.  
+    
 ✔ Extract email addresses from any URL
 ✔ Supports single page and multi-page crawling
 ✔ Regex-based accurate email matching
